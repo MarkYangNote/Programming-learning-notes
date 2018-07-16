@@ -42,7 +42,7 @@
 
 2dd表示一次删除2行
 
-我们来做如下练习：
+
 ```
 $ cp /etc/protocols .
 $ vim protocols
